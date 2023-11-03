@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&family=Roboto&family=Roboto+Condensed:wght@400;700&display=swap");
+* {
+  font-family: "Mulish", sans-serif;
+}
+
+.bg-pink {
+  background-color: #ff1493;
+  color: white;
+}
+
+h1, h2, h3 {
+  color: #ff1493;
+  font-weight: 100;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 300;
+}
+
+.botonera {
+  background-color: deeppink;
+}
+
+.botonera img {
+  width: 150px;
+}
+
+.botonera a {
+  color: white;
+}
+
+/* fondos */
+.bg-pink {
+  background-color: deeppink;
+  color: white;
+}
+
+.botonera svg {
+  width: 30px;
+  fill: white;
+}
+
+.filters button {
+  border: none;
+  background-color: deeppink;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
+.filters button svg {
+  width: 20px;
+  fill: black;
+}
+.filters input {
+  border-radius: 8px;
+}
+
+/*# sourceMappingURL=style.css.map */
